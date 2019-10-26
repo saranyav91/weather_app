@@ -113,7 +113,7 @@ $(document).on('click', '.list-group-item', function () {
 function getUvI(city, lat, lon) {
     var key = "b25072ef4942d1e91bd9a0cadd07c4df";
     var city = city;
-    var url = "http://api.openweathermap.org/data/2.5/uvi"
+    var url = "https://api.openweathermap.org/data/2.5/uvi"
     $.ajax({
         url: url, //API Call
         dataType: "json",
