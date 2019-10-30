@@ -1,4 +1,4 @@
-# Unit 05 Third-Party APIs Homework: Day Planner
+# Unit 06 Third-Party APIs Homework: Weather Dashboard
 
 Name:
 Weather Dashboard
